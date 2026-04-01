@@ -35,35 +35,6 @@ At the moment, we are **not yet releasing**:
 
 We will update this repository when the release materials are cleaned up and ready for public use.
 
-## Project Resources
-
-The full project page already contains the current visual materials:
-
-- teaser video
-- qualitative comparison clips
-- gallery videos
-- method overview figure
-- abstract and citation
-
-Project page: [https://kumapowerliu.github.io/AvatarPointillist/](https://kumapowerliu.github.io/AvatarPointillist/)
-
-The original source materials are maintained under:
-
-```text
-/Users/liuhongyu/Desktop/个人资料/KumapowerLIU.github.io/AvatarPointillist
-```
-
-Useful assets there include:
-
-```text
-teaser/teaser2.mp4
-teaser/teaser_page-0001.jpg
-figures/pipeline_page-0001.jpg
-gallery/*.mp4
-videos/comparison_clips/*.mp4
-videos/comparison_posters/*.jpg
-```
-
 ## Method at a Glance
 
 <p align="center">
@@ -79,20 +50,9 @@ Conditioning the decoder on latent features from the autoregressive generator su
 
 ## Authors
 
-- [Hongyu Liu](https://kumapowerliu.github.io/) <sup>1,2</sup>
-- [Xuan Wang](https://xuanwangvc.github.io/) <sup>2</sup>
-- [Yating Wang](https://scholar.google.com/citations?user=w1tn5rUAAAAJ&hl=zh-CN) <sup>2</sup>
-- [Zijian Wu](https://zijian-wu.github.io/) <sup>2</sup>
-- [Ziyu Wan](http://raywzy.com/) <sup>3</sup>
-- [Yue Ma](https://mayuelala.github.io/) <sup>1</sup>
-- [Runtao Liu](https://liuruntao.github.io/) <sup>1</sup>
-- [Boyao Zhou](https://yaourtb.github.io/) <sup>2</sup>
-- [Yujun Shen](https://shenyujun.github.io/) <sup>2</sup>
-- [Qifeng Chen](https://cqf.io/) <sup>1</sup>
+[Hongyu Liu](https://kumapowerliu.github.io/)<sup>1,2</sup>, [Xuan Wang](https://xuanwangvc.github.io/)<sup>2</sup>, [Yating Wang](https://scholar.google.com/citations?user=w1tn5rUAAAAJ&hl=zh-CN)<sup>2</sup>, [Zijian Wu](https://zijian-wu.github.io/)<sup>2</sup>, [Ziyu Wan](http://raywzy.com/)<sup>3</sup>, [Yue Ma](https://mayuelala.github.io/)<sup>1</sup>, [Runtao Liu](https://liuruntao.github.io/)<sup>1</sup>, [Boyao Zhou](https://yaourtb.github.io/)<sup>2</sup>, [Yujun Shen](https://shenyujun.github.io/)<sup>2</sup>, [Qifeng Chen](https://cqf.io/)<sup>1</sup>
 
-<sup>1</sup> HKUST  
-<sup>2</sup> Ant Group  
-<sup>3</sup> City University of Hong Kong
+<sup>1</sup> HKUST, <sup>2</sup> Ant Group, <sup>3</sup> City University of Hong Kong
 
 ## Planned Release
 
