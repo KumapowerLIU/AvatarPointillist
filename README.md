@@ -18,20 +18,17 @@
 
 <br>
 
-> ### [HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation, SIGGRAPH 2024](https://kumapowerliu.github.io/HeadArtist/)
-> Hongyu Liu, Xuan Wang, Ziyu Wan, et al.  
+> #### [HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation, SIGGRAPH 2024](https://kumapowerliu.github.io/HeadArtist/)
 > [![GitHub](https://img.shields.io/badge/GitHub-HeadArtist-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/ant-research/HeadArtist)
 > [![Project Page](https://img.shields.io/badge/Project-Page-84cc16?style=flat-square)](https://kumapowerliu.github.io/HeadArtist/)
 > [![arXiv](https://img.shields.io/badge/arXiv-2312.07539-b91c1c?style=flat-square)](https://arxiv.org/abs/2312.07539)
 
-> ### [Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation, SIGGRAPH Asia 2024](https://follow-your-emoji.github.io/)
-> Yue Ma, Hongyu Liu, Hongfa Wang, et al.  
+> #### [Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation, SIGGRAPH Asia 2024](https://follow-your-emoji.github.io/)
 > [![GitHub](https://img.shields.io/badge/GitHub-FollowYourEmoji-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/mayuelala/FollowYourEmoji)
 > [![Project Page](https://img.shields.io/badge/Project-Page-84cc16?style=flat-square)](https://follow-your-emoji.github.io/)
 > [![arXiv](https://img.shields.io/badge/arXiv-2406.01900-b91c1c?style=flat-square)](https://arxiv.org/abs/2406.01900)
 
-> ### [AvatarArtist: Open-Domain 4D Avatarization, CVPR 2025](https://kumapowerliu.github.io/AvatarArtist/)
-> Hongyu Liu, Xuan Wang, Ziyu Wan, Yue Ma, et al.  
+> #### [AvatarArtist: Open-Domain 4D Avatarization, CVPR 2025](https://kumapowerliu.github.io/AvatarArtist/)
 > [![GitHub](https://img.shields.io/badge/GitHub-AvatarArtist-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/ant-research/AvatarArtist)
 > [![Project Page](https://img.shields.io/badge/Project-Page-84cc16?style=flat-square)](https://kumapowerliu.github.io/AvatarArtist/)
 > [![arXiv](https://img.shields.io/badge/arXiv-2503.19906-b91c1c?style=flat-square)](https://arxiv.org/abs/2503.19906)
