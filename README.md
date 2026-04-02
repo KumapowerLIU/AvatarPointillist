@@ -1,7 +1,7 @@
 # AvatarPointillist: AutoRegressive 4D Gaussian Avatarization
 
-[![Project Page](https://img.shields.io/badge/Project-Page-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kumapowerliu.github.io/AvatarPointillist/)
-[![Publication List](https://img.shields.io/badge/Homepage-Publications-0f766e?style=for-the-badge&logo=googlescholar&logoColor=white)](https://kumapowerliu.github.io/publications/)
+[![Project Page](https://img.shields.io/badge/Project%20Page-0f172a?style=for-the-badge)](https://kumapowerliu.github.io/AvatarPointillist/)
+[![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-334155?style=for-the-badge)](#citation)
 [![Venue](https://img.shields.io/badge/CVPR-2026-f59e0b?style=for-the-badge)](#citation)
 [![Status](https://img.shields.io/badge/Code-Coming%20Soon-2563eb?style=for-the-badge)](#status)
 
@@ -10,6 +10,22 @@
 </p>
 
 > **AvatarPointillist** is an autoregressive framework for generating dynamic 4D Gaussian avatars from a single portrait image.
+
+## More Research
+
+We also have other avatar projects that may interest you:
+
+- [HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation](https://kumapowerliu.github.io/HeadArtist/)  
+  Hongyu Liu, Xuan Wang, Ziyu Wan, et al.  
+  [Project Page](https://kumapowerliu.github.io/HeadArtist/) · [arXiv 2312.07539](https://arxiv.org/abs/2312.07539)
+
+- [Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation](https://follow-your-emoji.github.io/)  
+  Yue Ma, Hongyu Liu, Hongfa Wang, et al.  
+  [Project Page](https://follow-your-emoji.github.io/) · [arXiv 2406.01900](https://arxiv.org/abs/2406.01900)
+
+- [AvatarArtist: Open-Domain 4D Avatarization](https://kumapowerliu.github.io/AvatarArtist/)  
+  Hongyu Liu, Xuan Wang, Ziyu Wan, Yue Ma, et al.  
+  [Project Page](https://kumapowerliu.github.io/AvatarArtist/) · [arXiv 2503.19906](https://arxiv.org/abs/2503.19906)
 
 ## Overview
 
@@ -63,22 +79,6 @@ We plan to organize the public release around the following components:
 - demo and inference scripts
 - training pipeline
 - data preparation instructions
-
-## More Research
-
-We also have other avatar projects that may interest you:
-
-- [HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation](https://kumapowerliu.github.io/HeadArtist/)  
-  Hongyu Liu, Xuan Wang, Ziyu Wan, et al.  
-  [Project Page](https://kumapowerliu.github.io/HeadArtist/) | [arXiv 2312.07539](https://arxiv.org/abs/2312.07539)
-
-- [Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation](https://follow-your-emoji.github.io/)  
-  Yue Ma, Hongyu Liu, Hongfa Wang, et al.  
-  [Project Page](https://follow-your-emoji.github.io/) | [arXiv 2406.01900](https://arxiv.org/abs/2406.01900)
-
-- [AvatarArtist: Open-Domain 4D Avatarization](https://kumapowerliu.github.io/AvatarArtist/)  
-  Hongyu Liu, Xuan Wang, Ziyu Wan, Yue Ma, et al.  
-  [Project Page](https://kumapowerliu.github.io/AvatarArtist/)
 
 ## Citation
 
