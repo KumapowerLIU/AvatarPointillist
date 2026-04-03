@@ -3,7 +3,7 @@
 [![Project Page](https://img.shields.io/badge/Project%20Page-0f172a?style=for-the-badge)](https://kumapowerliu.github.io/AvatarPointillist/)
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-334155?style=for-the-badge)](#citation)
 [![Venue](https://img.shields.io/badge/CVPR-2026-f59e0b?style=for-the-badge)](#citation)
-[![Status](https://img.shields.io/badge/Code-Coming%20Soon-2563eb?style=for-the-badge)](#status)
+[![Release Status](https://img.shields.io/badge/Release-Under%20Review-2563eb?style=for-the-badge)](#release-status)
 
 <p align="center">
   <img src="assets/teaser.jpg" alt="AvatarPointillist teaser" width="92%">
@@ -46,18 +46,18 @@ AvatarPointillist formulates avatar generation as a sequential prediction proble
 
 This repository will host the official implementation once the public release package is ready.
 
-## Status
+## Release Status
 
-This repository is currently a **project placeholder** for the upcoming code release.
+The public release materials are currently **under internal company review**.
 
-At the moment, we are **not yet releasing**:
+At the moment, the following components are **not yet available**:
 
 - training code
 - inference code
 - data preprocessing code
 - pretrained checkpoints
 
-We will update this repository when the release materials are cleaned up and ready for public use.
+We will update this repository once the review is complete and the release package is cleared for public use.
 
 ## Method at a Glance
 
@@ -80,7 +80,7 @@ Conditioning the decoder on latent features from the autoregressive generator su
 
 ## Planned Release
 
-We plan to organize the public release around the following components:
+The public release is planned to include the following components:
 
 - environment setup
 - checkpoints and pretrained models
