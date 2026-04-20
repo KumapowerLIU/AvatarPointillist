@@ -74,7 +74,7 @@ Conditioning the decoder on latent features from the autoregressive generator su
 
 ## Authors
 
-[Hongyu Liu](https://kumapowerliu.github.io/)<sup>1,2</sup>, [Xuan Wang](https://xuanwangvc.github.io/)<sup>2</sup>, [Yating Wang](https://scholar.google.com/citations?user=w1tn5rUAAAAJ&hl=zh-CN)<sup>2</sup>, [Zijian Wu](https://zijian-wu.github.io/)<sup>2</sup>, [Ziyu Wan](http://raywzy.com/)<sup>3</sup>, [Yue Ma](https://mayuelala.github.io/)<sup>1</sup>, [Runtao Liu](https://liuruntao.github.io/)<sup>1</sup>, [Boyao Zhou](https://yaourtb.github.io/)<sup>2</sup>, [Yujun Shen](https://shenyujun.github.io/)<sup>2</sup>, [Qifeng Chen](https://cqf.io/)<sup>1</sup>
+[Hongyu Liu](https://kumapowerliu.github.io/)<sup>1,2</sup>, [Xuan Wang](https://xuanwangvc.github.io/)<sup>2</sup>, [Zijian Wu](https://zijian-wu.github.io/)<sup>2</sup>, [Yating Wang](https://scholar.google.com/citations?user=w1tn5rUAAAAJ&hl=zh-CN)<sup>2</sup>,  [Ziyu Wan](http://raywzy.com/)<sup>3</sup>, [Yue Ma](https://mayuelala.github.io/)<sup>1</sup>, [Runtao Liu](https://liuruntao.github.io/)<sup>1</sup>, [Boyao Zhou](https://yaourtb.github.io/)<sup>2</sup>, [Yujun Shen](https://shenyujun.github.io/)<sup>2</sup>, [Qifeng Chen](https://cqf.io/)<sup>1</sup>
 
 <sup>1</sup> HKUST, <sup>2</sup> Ant Group, <sup>3</sup> City University of Hong Kong
 
@@ -95,7 +95,7 @@ If you find this project useful, please cite:
 ```bibtex
 @inproceedings{liu2026avatarpointillist,
   title     = {AvatarPointillist: AutoRegressive 4D Gaussian Avatarization},
-  author    = {Hongyu Liu and Xuan Wang and Yating Wang and Zijian Wu and Ziyu Wan and Yue Ma and Runtao Liu and Boyao Zhou and Yujun Shen and Qifeng Chen},
+  author    = {Hongyu Liu and Xuan Wang and Zijian Wu and Yating Wang and Ziyu Wan and Yue Ma and Runtao Liu and Boyao Zhou and Yujun Shen and Qifeng Chen},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year      = {2026}
 }
