@@ -31,6 +31,13 @@ python scripts/download_models.py
 
 This downloads the AR checkpoint, shape VAE, DINOv2 base weights/configs, Gaussian decoder and the model assets under their original relative paths. Use `--include-training-state` to also download the decoder optimizer/random state. For reproducibility, pass a Hub commit SHA with `--revision`. The SHA-256 inventory is in `models_manifest.json`.
 
+The complete 34-file archive was verified at revision `2b9e67ed5ec157a606504f37541f497d4ffb0378`. To download that exact version:
+
+```bash
+python scripts/download_models.py --revision 2b9e67ed5ec157a606504f37541f497d4ffb0378
+```
+
+
 The Gaussian decoder checkpoint already contains its larger DINOv2 encoder; inference no longer downloads an unrelated copy before restoring it. The AR encoder separately uses `pretrain_model/dinov2-base/`.
 
 The supplied package **does not contain** `foreground-segmentation-model-vitl16_384.onnx`, LPIPS/AlexNet training weights, or an automatic portrait-to-FLAME tracking model. RGB matting is now loaded only when requested. For RGB images that need background removal, supply the ONNX file and set `AVATAR_MATTING_MODEL`; alternatively provide an RGBA image or explicit mask. No replacement model has been invented or silently downloaded during review.

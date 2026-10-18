@@ -42,6 +42,17 @@
   },
   "github_tree_verification": {
     "first_source_commit": "8a7e39e354d3058dd52922d50e24e62b1dd9b7fe",
-    "local_and_remote_tree": "937cabf2293172cc4c9eb35483053ee14fc82fee"
+    "local_and_remote_tree": "937cabf2293172cc4c9eb35483053ee14fc82fee",
+    "final_source_fix_commit": "9df430d3dc38a5803b189bbe081b4f8766a09faa",
+    "final_source_fix_tree": "69b6f44035d20e6ea77f06122232658a66208341"
+  },
+  "model_archive_verification": {
+    "files": 34,
+    "bytes": 16143936685,
+    "sha256_matches": 34,
+    "repository": "KumaPower/AvatarPointillist",
+    "revision": "2b9e67ed5ec157a606504f37541f497d4ffb0378",
+    "visibility": "private",
+    "project_execution_performed": false
   }
 }

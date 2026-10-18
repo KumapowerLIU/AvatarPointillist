@@ -1,8 +1,17 @@
 {
   "repository": "KumaPower/AvatarPointillist",
+  "url": "https://huggingface.co/KumaPower/AvatarPointillist",
   "visibility": "private",
-  "status": "uploading",
+  "status": "complete",
   "expected_files": 34,
+  "verified_files": 34,
   "expected_bytes": 16143936685,
-  "model_execution_performed": false
+  "remote_revision": "2b9e67ed5ec157a606504f37541f497d4ffb0378",
+  "sha256_verification": "All 34 original model, configuration and asset files match; LFS SHA-256 or downloaded small-file SHA-256 verified",
+  "model_execution_performed": false,
+  "not_in_source_package": [
+    "RGB foreground ONNX model",
+    "automatic FLAME tracking model",
+    "LPIPS/AlexNet downloaded weights"
+  ]
 }
