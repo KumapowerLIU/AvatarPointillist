@@ -1,0 +1,11 @@
+face_npy_path: configs/face_indices.npy
+index_npy_path: configs/sampled_points.npy
+dino_path: pretrain_model/dinov2-base
+point_encoder_ckpt_path: pretrain_model/shapevae-256.ckpt
+flame_base_path: toy_data/flame/flame_assets/flame
+file_path_train: configs/ar_demo.json
+global_min: [-0.37134886, -0.26413554, -0.3435335]
+global_max: [0.30597788, 0.21042103, 0.12734485]
+n_discrete_size: 1024
+num_faces: 10144
+n_sample_points: 8192

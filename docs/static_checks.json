@@ -1,0 +1,25 @@
+{
+  "review_mode": "static only; no project imports, training, inference, checkpoint unpickling or CUDA builds",
+  "python_ast": {
+    "files": 230,
+    "errors": []
+  },
+  "json": {
+    "files": 15,
+    "errors": []
+  },
+  "yaml": {
+    "files": 29,
+    "errors": []
+  },
+  "secret_scan": {
+    "findings": []
+  },
+  "pyflakes": {
+    "core_undefined_names": 0,
+    "known_tool_false_positives": "jaxtyping shape strings are reported as forward-annotation syntax errors; AST parses them successfully",
+    "legacy_optional_findings": [
+      "Michelangelo conditional encoder references optional clip module; outside supported AR/decoder path"
+    ]
+  }
+}

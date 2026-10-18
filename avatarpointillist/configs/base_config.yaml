@@ -1,0 +1,153 @@
+experiment:
+    type: lam
+    seed: 42
+    parent: lam
+    child: mv-lam_20k
+
+dim: 1024
+heads: 16
+depth: 10
+max_img_per_gpu: 1
+image_num: [1, 16]
+other_views: 8
+encoder_freeze: true  # false
+ckpt_log_steps: 1000
+
+model:
+    # image encoder
+    encoder_type: "dinov2_fusion"
+    encoder_model_name: "dinov2_vitl14_reg"
+    encoder_feat_dim: ${dim}
+    encoder_freeze: ${encoder_freeze}
+
+    # points embeddings
+    latent_query_points_type: "e2e_flame"
+    pcl_dim: ${dim}
+
+    # transformer
+    transformer_type: "sd3_cond"
+    transformer_heads: ${heads}
+    transformer_dim: ${dim}
+    transformer_layers: ${depth}
+    tf_grad_ckpt: true
+    encoder_grad_ckpt: true
+
+    # for gs renderer
+    human_model_path: toy_data/flame
+    flame_subdivide_num: 1
+    flame_type: "flame"
+    gs_query_dim: ${dim}
+    gs_use_rgb: True
+    gs_sh: 3
+    gs_mlp_network_config:
+        n_neurons: 512
+        n_hidden_layers: 2
+        activation: silu
+    gs_xyz_offset_max_step: 0.2
+    gs_clip_scaling: 0.01
+    scale_sphere: false
+
+    expr_param_dim: 10
+    shape_param_dim: 10
+    add_teeth: false
+
+    fix_opacity: false
+    fix_rotation: false
+
+    has_disc: false
+
+    teeth_bs_flag: false
+    oral_mesh_flag: false
+
+data:
+    subsets:
+        -   name: mv_video_head
+            root_dirs: data/nersemble
+            gs_dirs: configs/decoder_train.example.json
+            meta_path:
+                train: avatarpointillist/configs/label/train_ids_new.json
+                val: avatarpointillist/configs/label/val_ids.json
+            sample_rate: 1.0
+    dataset:
+        sample_side_views: ${other_views}
+        source_image_res: 512
+        render_image:
+            low: 512
+            high: 512
+            region: null
+        repeat_num: 1
+        aspect_standard: 1.0
+        enlarge_ratio: [0.8, 1.2]
+        human_model_path: toy_data/flame
+    loader:
+        max_img_per_gpu: ${max_img_per_gpu}
+        image_num: ${image_num}
+        num_workers:
+            train: 8
+            val: 2
+        shuffle: true
+        pin_memory: true
+        persistent_workers: true
+
+train:
+    parsing_model_dir: null
+    mixed_precision: bf16  # REPLACE THIS BASED ON GPU TYPE
+    find_unused_parameters: false
+    loss:
+        pixel_weight: 0.0
+        pixel_loss_fn: "l1"
+        ssim_weight: 0.0
+        crop_face_weight: 0.
+        crop_mouth_weight: 0.
+        crop_eye_weight: 0.
+        masked_pixel_weight: 1.0
+        perceptual_weight: 1.0
+        scales_reg_weight: 0.
+        tv_weight: -1
+        mask_weight: 0:1.0:0.5:10000  # start_step:start_weight:end_weight:end_step
+        offset_reg_weight: 0.1
+        offset_sigma: 0.0
+    optim:
+        lr: 4e-4
+        weight_decay: 0.05
+        beta1: 0.9
+        beta2: 0.95
+        clip_grad_norm: 1.0
+    scheduler:
+        type: cosine
+        warmup_real_iters: 3000
+    batch_size: 1  # REPLACE THIS (PER GPU)
+    accum_steps: 1  # REPLACE THIS
+    epochs: 500  # REPLACE THIS
+    debug_global_steps: null
+    resume: ""
+
+val:
+    batch_size: 1
+    global_step_period: ${ckpt_log_steps}
+    debug_batches: 10
+
+saver:
+    auto_resume: true
+    load_model: null
+    checkpoint_root: ./exps/checkpoints
+    checkpoint_global_steps: ${ckpt_log_steps}
+    checkpoint_keep_level: 5
+
+logger:
+    stream_level: WARNING
+    log_level: INFO
+    log_root: ./exps/logs
+    tracker_root: ./exps/trackers
+    img_log_root: ./exps/img_logs
+    enable_profiler: false
+    trackers:
+        - tensorboard
+    image_monitor:
+        train_global_steps: ${ckpt_log_steps}
+        samples_per_log: 4
+
+compile:
+    suppress_errors: true
+    print_specializations: true
+    disable: true

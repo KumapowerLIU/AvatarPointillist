@@ -1,0 +1,10 @@
+base_config: ./configs/base_config.yaml
+
+max_img_per_gpu: 8
+image_num: [1, 8]
+
+experiment:
+    child: pf-lam-20k_wo_mask
+
+model:
+    flame_subdivide_num: 1

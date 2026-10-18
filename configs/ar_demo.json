@@ -1,0 +1,14 @@
+{
+  "076_FREE": {
+    "img_path": "toy_data/infer_img/076_FREE/00026_10.png",
+    "flame_path": "toy_data/infer_img/076_FREE/canonical_flame_param.npz"
+  },
+  "097_EMO-3": {
+    "img_path": "toy_data/infer_img/097_EMO-3/00000_10.png",
+    "flame_path": "toy_data/infer_img/097_EMO-3/canonical_flame_param.npz"
+  },
+  "148_EMO-1": {
+    "img_path": "toy_data/infer_img/148_EMO-1/00004_08.png",
+    "flame_path": "toy_data/infer_img/148_EMO-1/canonical_flame_param.npz"
+  }
+}

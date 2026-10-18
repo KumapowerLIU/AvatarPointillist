@@ -1,0 +1,482 @@
+Data Processing Log - 2025-08-05 23:06:16
+============================================================
+
+Processing root directory: /robby/share/Avatar/wuzijian/pf-lam/train_data/nersemble_v2_vhap/
+Scanning export directory...
+Found 3222 total IDs from 345 parents
+
+Parent statistics:
+  057: 10 children
+  058: 3 children
+  059: 11 children
+  060: 3 children
+  061: 11 children
+  063: 11 children
+  064: 11 children
+  065: 3 children
+  067: 11 children
+  068: 3 children
+  069: 11 children
+  070: 10 children
+  071: 3 children
+  072: 11 children
+  073: 11 children
+  074: 11 children
+  075: 11 children
+  076: 3 children
+  077: 3 children
+  078: 3 children
+  079: 3 children
+  080: 3 children
+  081: 11 children
+  082: 11 children
+  083: 11 children
+  085: 11 children
+  088: 11 children
+  089: 11 children
+  090: 11 children
+  091: 3 children
+  092: 11 children
+  093: 11 children
+  094: 2 children
+  095: 7 children
+  096: 11 children
+  097: 10 children
+  098: 3 children
+  099: 11 children
+  100: 10 children
+  102: 3 children
+  104: 11 children
+  105: 10 children
+  106: 11 children
+  107: 11 children
+  108: 11 children
+  109: 11 children
+  110: 3 children
+  111: 11 children
+  112: 11 children
+  113: 3 children
+  114: 3 children
+  115: 11 children
+  116: 11 children
+  117: 11 children
+  120: 11 children
+  121: 3 children
+  122: 11 children
+  123: 11 children
+  124: 10 children
+  126: 11 children
+  127: 11 children
+  128: 11 children
+  129: 11 children
+  130: 6 children
+  132: 11 children
+  133: 11 children
+  134: 11 children
+  135: 11 children
+  136: 3 children
+  138: 11 children
+  139: 11 children
+  140: 11 children
+  141: 11 children
+  142: 11 children
+  143: 9 children
+  144: 11 children
+  145: 11 children
+  146: 11 children
+  147: 11 children
+  148: 4 children
+  150: 3 children
+  151: 11 children
+  162: 11 children
+  163: 3 children
+  164: 11 children
+  165: 11 children
+  166: 10 children
+  167: 11 children
+  168: 3 children
+  170: 11 children
+  171: 9 children
+  173: 11 children
+  174: 11 children
+  175: 11 children
+  176: 11 children
+  177: 11 children
+  178: 11 children
+  179: 5 children
+  180: 3 children
+  181: 3 children
+  182: 11 children
+  183: 11 children
+  184: 11 children
+  185: 10 children
+  186: 11 children
+  187: 11 children
+  188: 3 children
+  189: 11 children
+  190: 10 children
+  191: 11 children
+  192: 11 children
+  193: 11 children
+  194: 11 children
+  195: 3 children
+  196: 11 children
+  197: 11 children
+  198: 10 children
+  199: 11 children
+  200: 11 children
+  201: 11 children
+  202: 11 children
+  204: 3 children
+  206: 3 children
+  207: 3 children
+  209: 10 children
+  210: 11 children
+  211: 11 children
+  212: 11 children
+  214: 11 children
+  215: 11 children
+  216: 11 children
+  217: 11 children
+  218: 11 children
+  220: 11 children
+  221: 3 children
+  222: 11 children
+  223: 11 children
+  224: 11 children
+  225: 8 children
+  229: 10 children
+  230: 11 children
+  231: 11 children
+  232: 3 children
+  233: 3 children
+  234: 3 children
+  235: 3 children
+  236: 11 children
+  237: 11 children
+  238: 11 children
+  239: 11 children
+  240: 11 children
+  241: 11 children
+  242: 3 children
+  243: 3 children
+  244: 11 children
+  245: 11 children
+  246: 11 children
+  247: 11 children
+  248: 11 children
+  249: 10 children
+  250: 11 children
+  251: 11 children
+  252: 11 children
+  253: 11 children
+  254: 11 children
+  256: 10 children
+  257: 11 children
+  258: 11 children
+  259: 11 children
+  260: 11 children
+  261: 11 children
+  262: 11 children
+  263: 11 children
+  264: 11 children
+  266: 3 children
+  267: 10 children
+  269: 11 children
+  270: 11 children
+  271: 11 children
+  272: 11 children
+  274: 3 children
+  275: 3 children
+  276: 11 children
+  277: 11 children
+  278: 11 children
+  279: 11 children
+  280: 11 children
+  281: 11 children
+  282: 11 children
+  283: 9 children
+  284: 11 children
+  285: 11 children
+  286: 10 children
+  287: 8 children
+  288: 11 children
+  289: 10 children
+  290: 11 children
+  293: 11 children
+  294: 11 children
+  295: 3 children
+  297: 3 children
+  298: 8 children
+  299: 11 children
+  301: 11 children
+  302: 11 children
+  303: 3 children
+  304: 11 children
+  305: 11 children
+  306: 11 children
+  307: 11 children
+  308: 11 children
+  309: 11 children
+  310: 10 children
+  311: 11 children
+  312: 11 children
+  313: 3 children
+  314: 11 children
+  315: 11 children
+  316: 11 children
+  317: 11 children
+  318: 11 children
+  319: 11 children
+  320: 11 children
+  321: 11 children
+  322: 10 children
+  323: 11 children
+  324: 11 children
+  325: 9 children
+  326: 11 children
+  327: 11 children
+  328: 11 children
+  330: 11 children
+  331: 11 children
+  332: 11 children
+  333: 11 children
+  350: 11 children
+  368: 8 children
+  370: 11 children
+  371: 11 children
+  372: 11 children
+  373: 11 children
+  374: 7 children
+  376: 11 children
+  377: 11 children
+  378: 11 children
+  379: 11 children
+  380: 10 children
+  382: 11 children
+  383: 11 children
+  384: 11 children
+  385: 11 children
+  386: 11 children
+  388: 3 children
+  403: 11 children
+  405: 11 children
+  406: 11 children
+  407: 11 children
+  409: 11 children
+  410: 11 children
+  411: 11 children
+  412: 11 children
+  413: 8 children
+  415: 11 children
+  416: 11 children
+  417: 11 children
+  418: 11 children
+  419: 6 children
+  421: 11 children
+  422: 10 children
+  424: 3 children
+  425: 11 children
+  426: 11 children
+  427: 11 children
+  428: 11 children
+  429: 11 children
+  430: 11 children
+  431: 11 children
+  432: 11 children
+  433: 11 children
+  434: 11 children
+  435: 11 children
+  436: 11 children
+  437: 11 children
+  438: 11 children
+  439: 11 children
+  440: 11 children
+  441: 11 children
+  442: 9 children
+  446: 11 children
+  447: 11 children
+  448: 11 children
+  449: 11 children
+  450: 11 children
+  451: 7 children
+  453: 11 children
+  455: 11 children
+  456: 11 children
+  457: 9 children
+  460: 11 children
+  462: 11 children
+  463: 11 children
+  464: 3 children
+  465: 3 children
+  466: 3 children
+  467: 11 children
+  468: 11 children
+  469: 11 children
+  470: 3 children
+  471: 11 children
+  472: 3 children
+  473: 3 children
+  474: 11 children
+  475: 11 children
+  476: 11 children
+  478: 11 children
+  479: 11 children
+  480: 11 children
+  481: 11 children
+  483: 11 children
+  484: 11 children
+  485: 11 children
+  487: 3 children
+  488: 3 children
+  489: 9 children
+  490: 11 children
+  491: 11 children
+  492: 11 children
+  494: 11 children
+  495: 11 children
+  496: 11 children
+  497: 11 children
+  498: 11 children
+  499: 11 children
+  500: 11 children
+  505: 9 children
+  509: 8 children
+  510: 11 children
+  515: 10 children
+  516: 4 children
+  521: 1 children
+  522: 5 children
+  525: 7 children
+  532: 1 children
+  538: 1 children
+  539: 1 children
+Saved 3222 items to /robby/share/Avatar/wuzijian/pf-lam/train_data/nersemble_v2_vhap/label/total_ids.json
+Splitting data by parents into train and validation sets...
+Saved 2989 items to /robby/share/Avatar/wuzijian/pf-lam/train_data/nersemble_v2_vhap/label/train_ids.json
+Saved 233 items to /robby/share/Avatar/wuzijian/pf-lam/train_data/nersemble_v2_vhap/label/val_ids.json
+
+Summary:
+- Total IDs: 3222
+- Total Parents: 345
+- Training IDs: 2989 (from 320 parents)
+- Validation IDs: 233 (from 25 parents)
+- Files saved in: /robby/share/Avatar/wuzijian/pf-lam/train_data/nersemble_v2_vhap/label
+
+Validation parents (25):
+  076, 088, 093, 097, 106, 107, 116, 148, 171, 176
+  229, 239, 279, 301, 327, 331, 416, 425, 434, 453
+  467, 510, 516, 522, 538
+
+Training parents (320):
+  057, 058, 059, 060, 061, 063, 064, 065, 067, 068
+  069, 070, 071, 072, 073, 074, 075, 077, 078, 079
+  080, 081, 082, 083, 085, 089, 090, 091, 092, 094
+  095, 096, 098, 099, 100, 102, 104, 105, 108, 109
+  110, 111, 112, 113, 114, 115, 117, 120, 121, 122
+  123, 124, 126, 127, 128, 129, 130, 132, 133, 134
+  135, 136, 138, 139, 140, 141, 142, 143, 144, 145
+  146, 147, 150, 151, 162, 163, 164, 165, 166, 167
+  168, 170, 173, 174, 175, 177, 178, 179, 180, 181
+  182, 183, 184, 185, 186, 187, 188, 189, 190, 191
+  192, 193, 194, 195, 196, 197, 198, 199, 200, 201
+  202, 204, 206, 207, 209, 210, 211, 212, 214, 215
+  216, 217, 218, 220, 221, 222, 223, 224, 225, 230
+  231, 232, 233, 234, 235, 236, 237, 238, 240, 241
+  242, 243, 244, 245, 246, 247, 248, 249, 250, 251
+  252, 253, 254, 256, 257, 258, 259, 260, 261, 262
+  263, 264, 266, 267, 269, 270, 271, 272, 274, 275
+  276, 277, 278, 280, 281, 282, 283, 284, 285, 286
+  287, 288, 289, 290, 293, 294, 295, 297, 298, 299
+  302, 303, 304, 305, 306, 307, 308, 309, 310, 311
+  312, 313, 314, 315, 316, 317, 318, 319, 320, 321
+  322, 323, 324, 325, 326, 328, 330, 332, 333, 350
+  368, 370, 371, 372, 373, 374, 376, 377, 378, 379
+  380, 382, 383, 384, 385, 386, 388, 403, 405, 406
+  407, 409, 410, 411, 412, 413, 415, 417, 418, 419
+  421, 422, 424, 426, 427, 428, 429, 430, 431, 432
+  433, 435, 436, 437, 438, 439, 440, 441, 442, 446
+  447, 448, 449, 450, 451, 455, 456, 457, 460, 462
+  463, 464, 465, 466, 468, 469, 470, 471, 472, 473
+  474, 475, 476, 478, 479, 480, 481, 483, 484, 485
+  487, 488, 489, 490, 491, 492, 494, 495, 496, 497
+  498, 499, 500, 505, 509, 515, 521, 525, 532, 539
+✓ No overlapping parents between train and validation sets
+
+Detailed validation set statistics:
+  076(3), 088(11), 093(11), 097(10), 106(11)
+  107(11), 116(11), 148(4), 171(9), 176(11)
+  229(10), 239(11), 279(11), 301(11), 327(11)
+  331(11), 416(11), 425(11), 434(11), 453(11)
+  467(11), 510(11), 516(4), 522(5), 538(1)
+
+Detailed training set statistics:
+  057(10), 058(3), 059(11), 060(3), 061(11)
+  063(11), 064(11), 065(3), 067(11), 068(3)
+  069(11), 070(10), 071(3), 072(11), 073(11)
+  074(11), 075(11), 077(3), 078(3), 079(3)
+  080(3), 081(11), 082(11), 083(11), 085(11)
+  089(11), 090(11), 091(3), 092(11), 094(2)
+  095(7), 096(11), 098(3), 099(11), 100(10)
+  102(3), 104(11), 105(10), 108(11), 109(11)
+  110(3), 111(11), 112(11), 113(3), 114(3)
+  115(11), 117(11), 120(11), 121(3), 122(11)
+  123(11), 124(10), 126(11), 127(11), 128(11)
+  129(11), 130(6), 132(11), 133(11), 134(11)
+  135(11), 136(3), 138(11), 139(11), 140(11)
+  141(11), 142(11), 143(9), 144(11), 145(11)
+  146(11), 147(11), 150(3), 151(11), 162(11)
+  163(3), 164(11), 165(11), 166(10), 167(11)
+  168(3), 170(11), 173(11), 174(11), 175(11)
+  177(11), 178(11), 179(5), 180(3), 181(3)
+  182(11), 183(11), 184(11), 185(10), 186(11)
+  187(11), 188(3), 189(11), 190(10), 191(11)
+  192(11), 193(11), 194(11), 195(3), 196(11)
+  197(11), 198(10), 199(11), 200(11), 201(11)
+  202(11), 204(3), 206(3), 207(3), 209(10)
+  210(11), 211(11), 212(11), 214(11), 215(11)
+  216(11), 217(11), 218(11), 220(11), 221(3)
+  222(11), 223(11), 224(11), 225(8), 230(11)
+  231(11), 232(3), 233(3), 234(3), 235(3)
+  236(11), 237(11), 238(11), 240(11), 241(11)
+  242(3), 243(3), 244(11), 245(11), 246(11)
+  247(11), 248(11), 249(10), 250(11), 251(11)
+  252(11), 253(11), 254(11), 256(10), 257(11)
+  258(11), 259(11), 260(11), 261(11), 262(11)
+  263(11), 264(11), 266(3), 267(10), 269(11)
+  270(11), 271(11), 272(11), 274(3), 275(3)
+  276(11), 277(11), 278(11), 280(11), 281(11)
+  282(11), 283(9), 284(11), 285(11), 286(10)
+  287(8), 288(11), 289(10), 290(11), 293(11)
+  294(11), 295(3), 297(3), 298(8), 299(11)
+  302(11), 303(3), 304(11), 305(11), 306(11)
+  307(11), 308(11), 309(11), 310(10), 311(11)
+  312(11), 313(3), 314(11), 315(11), 316(11)
+  317(11), 318(11), 319(11), 320(11), 321(11)
+  322(10), 323(11), 324(11), 325(9), 326(11)
+  328(11), 330(11), 332(11), 333(11), 350(11)
+  368(8), 370(11), 371(11), 372(11), 373(11)
+  374(7), 376(11), 377(11), 378(11), 379(11)
+  380(10), 382(11), 383(11), 384(11), 385(11)
+  386(11), 388(3), 403(11), 405(11), 406(11)
+  407(11), 409(11), 410(11), 411(11), 412(11)
+  413(8), 415(11), 417(11), 418(11), 419(6)
+  421(11), 422(10), 424(3), 426(11), 427(11)
+  428(11), 429(11), 430(11), 431(11), 432(11)
+  433(11), 435(11), 436(11), 437(11), 438(11)
+  439(11), 440(11), 441(11), 442(9), 446(11)
+  447(11), 448(11), 449(11), 450(11), 451(7)
+  455(11), 456(11), 457(9), 460(11), 462(11)
+  463(11), 464(3), 465(3), 466(3), 468(11)
+  469(11), 470(3), 471(11), 472(3), 473(3)
+  474(11), 475(11), 476(11), 478(11), 479(11)
+  480(11), 481(11), 483(11), 484(11), 485(11)
+  487(3), 488(3), 489(9), 490(11), 491(11)
+  492(11), 494(11), 495(11), 496(11), 497(11)
+  498(11), 499(11), 500(11), 505(9), 509(8)
+  515(10), 521(1), 525(7), 532(1), 539(1)
+
+Processing completed at: 2025-08-05 23:06:18
+============================================================
+
+Log file saved to: /robby/share/Avatar/wuzijian/pf-lam/lam/datasets/data_info.txt

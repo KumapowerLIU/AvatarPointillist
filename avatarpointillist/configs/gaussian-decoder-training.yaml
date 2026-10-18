@@ -1,0 +1,44 @@
+base_config: base_config.yaml
+
+max_img_per_gpu: 1
+image_num: [1, 1]
+ckpt_log_steps: 500
+other_views: 16
+experiment:
+    child: gaussian_decoder_training
+data:
+    dataset:
+        use_aug: false
+        use_ar_out: true
+    subsets:
+        -   name: mv_video_head
+            root_dirs: data/nersemble
+            gs_dirs: configs/decoder_train.example.json
+            meta_path:
+                train: avatarpointillist/configs/label/train_ids_new.json
+                val: avatarpointillist/configs/label/val_ids.json
+            sample_rate: 1.0
+    loader:
+        num_workers:
+            train: 8
+        shuffle: true
+        pin_memory: true
+        persistent_workers: true
+model:
+    flame_subdivide_num: 1
+    gs_xyz_offset_max_step: 0.2
+    use_binding_as_condion: true
+    use_ar_embedding_as_condition: true
+
+
+train:
+    batch_size: 1
+    optim:
+        lr: 4e-4
+    scheduler:
+        type: cosine
+        warmup_real_iters: 3000
+    loss:
+        ssim_weight: 0.5
+val:
+    batch_size: 1

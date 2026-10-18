@@ -1,0 +1,1 @@
+This is a 32-view smoke-example subset of the supplied 076_FREE tracked motion (two timestamps, 16 cameras). RGB frames and foreground masks are omitted. Use vis_rgb=false and vis_motion=false with this compact example. It is not an evaluation sequence.

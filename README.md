@@ -3,7 +3,7 @@
 [![Project Page](https://img.shields.io/badge/Project%20Page-0f172a?style=for-the-badge)](https://kumapowerliu.github.io/AvatarPointillist/)
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-334155?style=for-the-badge)](#citation)
 [![Venue](https://img.shields.io/badge/CVPR-2026-f59e0b?style=for-the-badge)](#citation)
-[![Release Status](https://img.shields.io/badge/Release-Under%20Review-2563eb?style=for-the-badge)](#release-status)
+[![Release Status](https://img.shields.io/badge/Release-Static%20Review%20Branch-2563eb?style=for-the-badge)](#release-status)
 
 <p align="center">
   <img src="assets/teaser.jpg" alt="AvatarPointillist teaser" width="92%">
@@ -44,20 +44,26 @@ AvatarPointillist formulates avatar generation as a sequential prediction proble
 - decodes full renderable Gaussian attributes with a dedicated Gaussian decoder
 - produces photorealistic and controllable 4D avatars
 
-This repository will host the official implementation once the public release package is ready.
+This branch contains the supplied research implementation with fixes from a static code review. Training and inference were not run during review. See [setup and usage](docs/SETUP.md), [the Chinese review report](docs/STATIC_REVIEW_zh.md), and [third-party notices](THIRD_PARTY.md).
 
 ## Release Status
 
-The public release materials are currently **under internal company review**.
+This is a **static-review release candidate** on `codex/static-review-release`.
 
-At the moment, the following components are **not yet available**:
+- AR geometry training and inference, Gaussian decoder code, portable example configurations, and setup instructions are included.
+- Checkpoints and original model assets are archived under [KumaPower/AvatarPointillist](https://huggingface.co/KumaPower/AvatarPointillist), initially **private**. See [model upload status](MODEL_UPLOAD_STATUS.json) and [SHA-256 inventory](models_manifest.json).
+- Models were not executed and the environment is not runtime-validated. Numerical quality, paper metrics, and CUDA/multi-GPU compatibility remain to be checked.
+- Third-party model permissions and a project-wide license have not been unified. Original notices are preserved.
 
-- training code
-- inference code
-- data preprocessing code
-- pretrained checkpoints
+Start with [SETUP.md](docs/SETUP.md). From the repository root, after installing dependencies and obtaining model access:
 
-We will update this repository once the review is complete and the release package is cleared for public use.
+```bash
+python scripts/download_models.py
+python test_ar.py --config_dir configs/ar_inference.yaml
+bash avatarpointillist/scripts_gstrans/inference.sh
+```
+
+Inputs require a portrait and tracked FLAME shape parameters; this package does not include an automatic portrait-to-FLAME tracker.
 
 ## Method at a Glance
 
@@ -78,12 +84,12 @@ Conditioning the decoder on latent features from the autoregressive generator su
 
 <sup>1</sup> HKUST, <sup>2</sup> Ant Group, <sup>3</sup> City University of Hong Kong
 
-## Planned Release
+## Included in This Branch
 
-The public release is planned to include the following components:
+The source branch includes:
 
-- environment setup
-- checkpoints and pretrained models
+- candidate environment setup (not runtime-tested)
+- checkpoint download instructions and a private owner model archive
 - demo and inference scripts
 - training pipeline
 - data preparation instructions

@@ -1,0 +1,172 @@
+[
+  {
+    "path": "pretrain_model/checkpoint_ar.pth",
+    "size_bytes": 5160441282,
+    "sha256": "648bf4b974ff01b26849714efa55777493d8a6ea8937934b4db699b8d351e6aa"
+  },
+  {
+    "path": "pretrain_model/dinov2-base/.gitattributes",
+    "size_bytes": 1519,
+    "sha256": "11ad7efa24975ee4b0c3c3a38ed18737f0658a5f75a0a96787b576a78a023361"
+  },
+  {
+    "path": "pretrain_model/dinov2-base/README.md",
+    "size_bytes": 3047,
+    "sha256": "a25f88d48fa60f0c82a6573285ce4f01d60411c986b2de03feb68cf65480eb18"
+  },
+  {
+    "path": "pretrain_model/dinov2-base/config.json",
+    "size_bytes": 548,
+    "sha256": "f7ff4cfa73d2f70647dbf6950541ad25d73082d54c2e7e9bded160c7656b2a70"
+  },
+  {
+    "path": "pretrain_model/dinov2-base/model.safetensors",
+    "size_bytes": 346345912,
+    "sha256": "d73036b56966966d07975d696bde331762f37297e2f095de8cea0040c3aa0841"
+  },
+  {
+    "path": "pretrain_model/dinov2-base/preprocessor_config.json",
+    "size_bytes": 436,
+    "sha256": "14e780d86fa1861f8751f868d7f45425b5feb55c38ca26f152ca5097ab30f828"
+  },
+  {
+    "path": "pretrain_model/dinov2-base/pytorch_model.bin",
+    "size_bytes": 346392713,
+    "sha256": "014965d9e330e7f4bff8ddcbee9df5e4f2ca032b2f5180942a6edb454783e75d"
+  },
+  {
+    "path": "pretrain_model/gaussian_decoder/custom_checkpoint_0.pkl",
+    "size_bytes": 1104,
+    "sha256": "a47102e45f97b1fcf77ad30b6b16668624bf7b2b1df9b546b57eafc2057c7122"
+  },
+  {
+    "path": "pretrain_model/gaussian_decoder/model.safetensors",
+    "size_bytes": 3254835588,
+    "sha256": "025c0e26b873895a2d5d0decd2a1b9bfc04b148619f616ff48a7a10b161e630d"
+  },
+  {
+    "path": "pretrain_model/gaussian_decoder/optimizer.bin",
+    "size_bytes": 2924641793,
+    "sha256": "26235d94d73149141036b24d61c8f40847e1f363ad1712ef9b014a66a5c444af"
+  },
+  {
+    "path": "pretrain_model/gaussian_decoder/random_states_0.pkl",
+    "size_bytes": 16100,
+    "sha256": "0bffea24baaf8c9418d677cde9721e62923be610efadc8f2fbadd1974a887591"
+  },
+  {
+    "path": "pretrain_model/shapevae-256.ckpt",
+    "size_bytes": 3934164973,
+    "sha256": "0391b81c36240e8f766fedf4265df599884193a5ef65354525074b9a00887454"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/flame/FLAME_masks.pkl",
+    "size_bytes": 215062,
+    "sha256": "ccefbe1ac0774ff78c68caf2c627b4abc067a6555ebeb0be5d5b0812366ab492"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/flame/flame2023.pkl",
+    "size_bytes": 53023716,
+    "sha256": "8fb1af0db1abb51053ead8fd1f2624a63d01c9602f4a4fb4ea23bd2c82017fa0"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/flame/flame_arkit_bs.npy",
+    "size_bytes": 6268832,
+    "sha256": "33f4b588c1fadd227ce668c14b484619f40e7a08c25fdf20b0bc7b28212f43ca"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/flame/head_template_mesh.obj",
+    "size_bytes": 563358,
+    "sha256": "dd5bfbce75adb99b1963f43bca7ec3557bd4a7321f8fc515f4100599e80d99f2"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/flame/landmark_embedding_with_eyes.npy",
+    "size_bytes": 32187,
+    "sha256": "a9050103cc98d5505beadca2f9b101acce9a78ebdd5d10cb001fa164ab7d309b"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/flame/oral_jawopen0p5.obj",
+    "size_bytes": 18099,
+    "sha256": "d6d1d61ee876eea2aaf73326deae42f2839aea8834bc8ce86361e2562330f499"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/flame/teeth_blendshape.json",
+    "size_bytes": 46121,
+    "sha256": "f81a7286ffc25c1abe488017c0896d97967cd9cc530253014811beb74f23ac6d"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/flame_arkit_bs.npy",
+    "size_bytes": 6268832,
+    "sha256": "33f4b588c1fadd227ce668c14b484619f40e7a08c25fdf20b0bc7b28212f43ca"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/pred_expression.json",
+    "size_bytes": 1428097,
+    "sha256": "b8b19fa494b3558c0967128332151aa85cb182d85b978c52e69724855b4956c5"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/shoulder_mesh.obj",
+    "size_bytes": 186178,
+    "sha256": "6438ca95ed07b5a9c602d57e26745847db86fc95ead4bc1d57aac654f3372c39"
+  },
+  {
+    "path": "toy_data/flame/flame_assets/teeth_jawopen_offset.npy",
+    "size_bytes": 1568,
+    "sha256": "da38cf36627942d8fea5a9157c4cb3788a2b7a0a9f331a40aac5f882e29cd616"
+  },
+  {
+    "path": "toy_data/flame/flame_vhap/FLAME_masks.pkl",
+    "size_bytes": 215062,
+    "sha256": "ccefbe1ac0774ff78c68caf2c627b4abc067a6555ebeb0be5d5b0812366ab492"
+  },
+  {
+    "path": "toy_data/flame/flame_vhap/flame2023.pkl",
+    "size_bytes": 53023716,
+    "sha256": "8fb1af0db1abb51053ead8fd1f2624a63d01c9602f4a4fb4ea23bd2c82017fa0"
+  },
+  {
+    "path": "toy_data/flame/flame_vhap/head_template_mesh.obj",
+    "size_bytes": 583480,
+    "sha256": "6e97de16c1059399531888e95434502020048e133272e3e359d709fb59702e07"
+  },
+  {
+    "path": "toy_data/flame/flame_vhap/landmark_embedding_with_eyes.npy",
+    "size_bytes": 32187,
+    "sha256": "a9050103cc98d5505beadca2f9b101acce9a78ebdd5d10cb001fa164ab7d309b"
+  },
+  {
+    "path": "toy_data/flame/flame_vhap/tex_mean_painted.png",
+    "size_bytes": 487031,
+    "sha256": "0f1059ff049f6f4d237a6dd0c415e5e83963200f7eaf82781794ab02eac623ff"
+  },
+  {
+    "path": "toy_data/flame/flame_vhap/uv_masks.npz",
+    "size_bytes": 376790,
+    "sha256": "34b7e9f2a9feb35255ffc539f15209de2d14f1a558d7cd3b8da4dde20194587a"
+  },
+  {
+    "path": "gaussian_avatar/flame_model/assets/flame/FLAME_masks.pkl",
+    "size_bytes": 215062,
+    "sha256": "ccefbe1ac0774ff78c68caf2c627b4abc067a6555ebeb0be5d5b0812366ab492"
+  },
+  {
+    "path": "gaussian_avatar/flame_model/assets/flame/flame2023.pkl",
+    "size_bytes": 53023716,
+    "sha256": "8fb1af0db1abb51053ead8fd1f2624a63d01c9602f4a4fb4ea23bd2c82017fa0"
+  },
+  {
+    "path": "gaussian_avatar/flame_model/assets/flame/head_template_mesh.obj",
+    "size_bytes": 563358,
+    "sha256": "dd5bfbce75adb99b1963f43bca7ec3557bd4a7321f8fc515f4100599e80d99f2"
+  },
+  {
+    "path": "gaussian_avatar/flame_model/assets/flame/landmark_embedding_with_eyes.npy",
+    "size_bytes": 32187,
+    "sha256": "a9050103cc98d5505beadca2f9b101acce9a78ebdd5d10cb001fa164ab7d309b"
+  },
+  {
+    "path": "gaussian_avatar/flame_model/assets/flame/tex_mean_painted.png",
+    "size_bytes": 487031,
+    "sha256": "0f1059ff049f6f4d237a6dd0c415e5e83963200f7eaf82781794ab02eac623ff"
+  }
+]
