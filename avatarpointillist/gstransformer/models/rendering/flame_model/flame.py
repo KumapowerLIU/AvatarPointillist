@@ -32,7 +32,7 @@ from collections import defaultdict
 try:
     from pytorch3d.io import load_obj
 except ImportError:
-    from utils.pytorch3d_load_obj import load_obj
+    from avatarpointillist.flame_condition.util.pytorch3d_load_obj import load_obj
 
 from pytorch3d.structures import Meshes
 from pytorch3d.ops import SubdivideMeshes

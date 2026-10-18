@@ -5,7 +5,7 @@
     "errors": []
   },
   "json": {
-    "files": 15,
+    "files": 16,
     "errors": []
   },
   "yaml": {
@@ -21,5 +21,27 @@
     "legacy_optional_findings": [
       "Michelangelo conditional encoder references optional clip module; outside supported AR/decoder path"
     ]
+  },
+  "static_import_closure": {
+    "local_modules_examined": 87,
+    "missing_required_manifest_dependencies_added": [
+      "scikit-image",
+      "megfile"
+    ]
+  },
+  "bash_syntax": {
+    "checked": [
+      "scripts/install_rasterizer.sh",
+      "avatarpointillist/scripts_gstrans/inference.sh",
+      "avatarpointillist/scripts_gstrans/exp/train_lam.sh"
+    ],
+    "passed": true
+  },
+  "git_diff_check": {
+    "passed": true
+  },
+  "github_tree_verification": {
+    "first_source_commit": "8a7e39e354d3058dd52922d50e24e62b1dd9b7fe",
+    "local_and_remote_tree": "937cabf2293172cc4c9eb35483053ee14fc82fee"
   }
 }

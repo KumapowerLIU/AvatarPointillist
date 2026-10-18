@@ -197,7 +197,7 @@ class LAMInferrer(Inferrer):
             mesh.export(os.path.join(dump_cano_dir, os.path.basename(dump_image_dir) + '_shaped_mesh.obj'))
 
             # Export textured deformed mesh
-            import lam.models.rendering.utils.mesh_utils as mesh_utils
+            import avatarpointillist.gstransformer.models.rendering.utils.mesh_utils as mesh_utils
             vtxs = res['cano_gs_lst'][0].xyz.detach().cpu()
             faces = self.model.renderer.flame_model.faces.detach().cpu()
             colors = res['cano_gs_lst'][0].shs.squeeze(1).detach().cpu()
@@ -590,7 +590,7 @@ class LAMInferrer(Inferrer):
                 mesh.export(os.path.join(dump_cano_dir, os.path.basename(os.path.normpath(dump_image_dir)) + '_shaped_mesh.obj'))
 
                 # Export textured deformed mesh
-                import lam.models.rendering.utils.mesh_utils as mesh_utils
+                import avatarpointillist.gstransformer.models.rendering.utils.mesh_utils as mesh_utils
                 vtxs = res['cano_gs_lst'][0].xyz.detach().cpu()
                 faces = self.model.renderer.flame_model.faces.detach().cpu()
                 colors = res['cano_gs_lst'][0].shs.squeeze(1).detach().cpu()

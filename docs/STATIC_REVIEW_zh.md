@@ -2,7 +2,7 @@
 
 审查日期：2026-10-18（Asia/Shanghai）。源代码来自用户提供的 `cvpr2026_code_review` 目录；修改位于 GitHub 仓库的独立分支，原始目录保持不变。
 
-**范围与边界：** 阅读 AR 训练/生成、数据加载、Transformer wrapper、Gaussian decoder 加载/训练/推理、配置和发布依赖；对全部纳入分支的 Python 做 AST 语法分析，对 JSON/YAML 做解析，对主要 Python 做未定义名称静态检查。读取 safetensors JSON 头和 PyTorch ZIP/pickle 指令元数据，但没有反序列化 checkpoint。没有导入项目、运行训练/推理、构建 CUDA 扩展或做数值/图像效果测试。以下“已修复”指代码修改和静态检查，不代表已通过运行验证。
+**范围与边界：** 阅读 AR 训练/生成、数据加载、Transformer wrapper、Gaussian decoder 加载/训练/推理、配置和发布依赖；对全部纳入分支的 Python 做 AST 语法分析，对 JSON/YAML 做解析，对主要 Python 做未定义名称静态检查，并沿入口静态追踪了 87 个本地模块的导入依赖。读取 safetensors JSON 头和 PyTorch ZIP/pickle 指令元数据，但没有反序列化 checkpoint。没有导入项目、运行训练/推理、构建 CUDA 扩展或做数值/图像效果测试。以下“已修复”指代码修改和静态检查，不代表已通过运行验证。
 
 ## 已修复的高影响问题
 

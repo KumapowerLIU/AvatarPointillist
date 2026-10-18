@@ -33,7 +33,7 @@ from torch.nn import functional as F
 try:
     from pytorch3d.io import load_obj
 except ImportError:
-    from util.pytorch3d_load_obj import load_obj
+    from avatarpointillist.flame_condition.util.pytorch3d_load_obj import load_obj
 from roma import rotmat_to_unitquat, quat_xyzw_to_wxyz
 from .graphics_utils import compute_face_orientation
 # FLAME_MESH_PATH = "flame_model/assets/flame/head_template_mesh.obj"

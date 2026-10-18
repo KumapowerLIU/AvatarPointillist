@@ -32,7 +32,7 @@ from pytorch3d.ops import SubdivideMeshes
 try:
     from pytorch3d.io import load_obj
 except ImportError:
-    from util.pytorch3d_load_obj import load_obj
+    from avatarpointillist.flame_condition.util.pytorch3d_load_obj import load_obj
 
 # FLAME_MESH_PATH = "flame_model/assets/flame/head_template_mesh.obj"
 # FLAME_LMK_PATH = "flame_model/assets/flame/landmark_embedding_with_eyes.npy"

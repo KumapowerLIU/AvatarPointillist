@@ -36,3 +36,5 @@ typeguard
 roma
 iopath
 ninja
+scikit-image
+megfile
