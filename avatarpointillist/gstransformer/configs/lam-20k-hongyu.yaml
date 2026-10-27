@@ -1,0 +1,12 @@
+base_config: ./configs/base_config.yaml
+
+max_img_per_gpu: 8
+image_num: [1, 1]
+
+experiment:
+    child: lam-20k_wo_mask
+data:
+    dataset:
+        use_aug: true
+model:
+    flame_subdivide_num: 1

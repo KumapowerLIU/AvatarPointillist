@@ -1,0 +1,13 @@
+# Configuration for AR Testing
+face_npy_path: /nas5/liuhongyu/AR_Results/cvpr2026_code_review/avatarpointillist/configs/geometry_config/face_indices.npy
+index_npy_path: /nas5/liuhongyu/AR_Results/cvpr2026_code_review/avatarpointillist/configs/geometry_config/sampled_points.npy
+dino_path: /nas5/liuhongyu/AR_Results/cvpr2026_code_review/pretrain_model/dinov2-base
+point_encoder_ckpt_path: /nas5/liuhongyu/AR_Results/cvpr2026_code_review/pretrain_model/shapevae-256.ckpt
+flame_base_path: /home/liuhongyu/code/AR/GSA/flame_model/assets/flame
+file_path_train: /home/liuhongyu/code/AR/aicode/avatarpointillist/configs/data_triplane_overfitting.json
+global_min: [-0.37134886, -0.26413554, -0.3435335]
+global_max: [0.30597788, 0.21042103, 0.12734485]
+n_discrete_size: 1024
+num_faces: 10144
+n_sample_points: 8192
+

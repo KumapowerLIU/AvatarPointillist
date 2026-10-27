@@ -1,0 +1,46 @@
+experiment:
+  parent: "test_project"
+  child: "ddp_experiment"
+  seed: 42
+
+train:
+  epochs: 100
+  learning_rate: 1e-4
+  weight_decay: 0.01
+  batch_size: 32
+  accum_steps: 1
+  mixed_precision: "fp16"  # "no", "fp16", "bf16"
+  max_grad_norm: 1.0
+  find_unused_parameters: false
+  scheduler_step_per_batch: false
+  val_every_n_epochs: 5
+  debug_global_steps: null
+
+data:
+  loader:
+    batch_size: 32
+    val_batch_size: 64
+    num_workers: 4
+    max_img_per_gpu: 32
+
+logger:
+  stream_level: "INFO"
+  log_level: "DEBUG"
+  log_root: "./logs"
+  tracker_root: "./tensorboard"
+  img_log_root: "./images"
+  log_every_n_steps: 100
+  log_gradients: false
+  trackers: ["tensorboard"]
+
+saver:
+  checkpoint_root: "./checkpoints"
+  auto_resume: true
+  load_model: null
+  checkpoint_global_steps: 1000
+  checkpoint_every_n_epochs: 10
+  checkpoint_keep_level: 10
+
+compile:
+  mode: null  # "default", "reduce-overhead", "max-autotune"
+  backend: "inductor"

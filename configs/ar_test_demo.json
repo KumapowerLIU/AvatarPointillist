@@ -1,0 +1,13 @@
+[
+{
+
+    "sample_id_1": {
+        "base_path": "/nas5/liuhongyu/AR_Results/cluster/gsa_nooffset/304/304",
+        "img_path": "/nas5/liuhongyu/AR_Results/ners_test_data/inference_imgs/inthewild/vfhq_Clip+_aBExpz3NQs+P0+C1+F188-774/00069_00.png",
+        "flame_path": "/nas5/liuhongyu/AR_Results/ners_test_data/inference_imgs/inthewild/vfhq_Clip+_aBExpz3NQs+P0+C1+F188-774/canonical_flame_param.npz"
+    }
+
+    
+    
+}
+]

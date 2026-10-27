@@ -1,0 +1,11 @@
+{
+
+    "sample_id_1": {
+        "img_path": "/nas5/wuzijian/lam_test_data/inference_imgs/cluo/00000_00.png",
+        "flame_path": "/nas5/wuzijian/lam_test_data/inference_imgs/cluo/canonical_flame_param.npz",
+        "ply_path": "/nas5/liuhongyu/AR_Results/clusterbackup/GSAFitting/301/point_cloud/iteration_180000/point_cloud.ply"
+    }
+
+    
+}
+

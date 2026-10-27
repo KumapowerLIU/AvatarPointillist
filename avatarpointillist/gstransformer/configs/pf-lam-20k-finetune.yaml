@@ -1,0 +1,13 @@
+base_config: ./configs/base_config.yaml
+
+max_img_per_gpu: 8
+image_num: [1, 8]
+
+experiment:
+    child: pf-lam-20k_finetune
+
+model:
+    flame_subdivide_num: 1
+
+saver:
+    load_model: ./model_zoo/lam_models/releases/lam/lam-20k/step_045500/model.safetensors

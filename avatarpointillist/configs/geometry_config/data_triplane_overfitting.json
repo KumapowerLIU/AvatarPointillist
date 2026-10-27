@@ -1,0 +1,10 @@
+{
+
+    "sample_id_1": {
+        "img_path": "/nas5/liuhongyu/AR_Results/cvpr2026_code_review/toy_data/093_EMO-2/00083_08.png",
+        "flame_path": "/nas5/liuhongyu/AR_Results/cvpr2026_code_review/toy_data/093_EMO-2/canonical_flame_param.npz"
+    }
+
+    
+}
+

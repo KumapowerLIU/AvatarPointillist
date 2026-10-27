@@ -1,108 +1,31 @@
-# AvatarPointillist: AutoRegressive 4D Gaussian Avatarization
+## README的意义
 
-[![Project Page](https://img.shields.io/badge/Project%20Page-0f172a?style=for-the-badge)](https://kumapowerliu.github.io/AvatarPointillist/)
-[![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-334155?style=for-the-badge)](#citation)
-[![Venue](https://img.shields.io/badge/CVPR-2026-f59e0b?style=for-the-badge)](#citation)
-[![Release Status](https://img.shields.io/badge/Release-Under%20Review-2563eb?style=for-the-badge)](#release-status)
+README 文件通常是项目的第一个入口点。你应该通过 README 明确地告诉大家，为什么他们应该使用你的项目，以及安装和使用的方法。
 
-<p align="center">
-  <img src="assets/teaser.jpg" alt="AvatarPointillist teaser" width="92%">
-</p>
+如果在仅仅看文档而不看代码的情况下就可以使用你的项目，该文档就完成了。 这个非常重要，因为这将使项目的文档接口与其内部实现分开，只要接口保持不变，就可以自由更改项目的内部结构。 
 
-> **AvatarPointillist** is an autoregressive framework for generating dynamic 4D Gaussian avatars from a single portrait image.
+**文档，而不是代码定义了项目的使用方式。**
 
-## More Research
+一个规范的README文档能减少用户检索信息的时间。
 
-<details open>
-<summary><strong>💡 We also have other avatar projects that may interest you.</strong></summary>
+## 标准 README
 
-<br>
+一个标准的README文件应当至少包含以下的内容：
 
-> #### [HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation, SIGGRAPH 2024](https://kumapowerliu.github.io/HeadArtist/)
-> [![GitHub](https://img.shields.io/badge/GitHub-HeadArtist-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/ant-research/HeadArtist)
-> [![Project Page](https://img.shields.io/badge/Project-Page-84cc16?style=flat-square)](https://kumapowerliu.github.io/HeadArtist/)
-> [![arXiv](https://img.shields.io/badge/arXiv-2312.07539-b91c1c?style=flat-square)](https://arxiv.org/abs/2312.07539)
+- 项目背景：说明创建本项目的背景与动机，创建本项目试图解决的问题 
+- 安装方法：说明如何快速上手使用该项目
+- 使用方法：列出本项目能够提供的功能以及使用这些功能的方法
+- 文档：现阶段antcode鼓励用户使用语雀组织项目文档，在README上应当放入项目的语雀文档链接
 
-> #### [Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation, SIGGRAPH Asia 2024](https://follow-your-emoji.github.io/)
-> [![GitHub](https://img.shields.io/badge/GitHub-FollowYourEmoji-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/mayuelala/FollowYourEmoji)
-> [![Project Page](https://img.shields.io/badge/Project-Page-84cc16?style=flat-square)](https://follow-your-emoji.github.io/)
-> [![arXiv](https://img.shields.io/badge/arXiv-2406.01900-b91c1c?style=flat-square)](https://arxiv.org/abs/2406.01900)
+## 附加内容
 
-> #### [AvatarArtist: Open-Domain 4D Avatarization, CVPR 2025](https://kumapowerliu.github.io/AvatarArtist/)
-> [![GitHub](https://img.shields.io/badge/GitHub-AvatarArtist-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/ant-research/AvatarArtist)
-> [![Project Page](https://img.shields.io/badge/Project-Page-84cc16?style=flat-square)](https://kumapowerliu.github.io/AvatarArtist/)
-> [![arXiv](https://img.shields.io/badge/arXiv-2503.19906-b91c1c?style=flat-square)](https://arxiv.org/abs/2503.19906)
+视项目的实际情况，同样也应该包含以下内容：
 
-</details>
-
-## Overview
-
-AvatarPointillist formulates avatar generation as a sequential prediction problem. Starting from a single portrait image, the method:
-
-- autoregressively generates Gaussian point clouds with a decoder-only Transformer
-- jointly predicts per-point binding for animation
-- decodes full renderable Gaussian attributes with a dedicated Gaussian decoder
-- produces photorealistic and controllable 4D avatars
-
-This repository will host the official implementation once the public release package is ready.
-
-## Release Status
-
-The public release materials are currently **under internal company review**.
-
-At the moment, the following components are **not yet available**:
-
-- training code
-- inference code
-- data preprocessing code
-- pretrained checkpoints
-
-We will update this repository once the review is complete and the release package is cleared for public use.
-
-## Method at a Glance
-
-<p align="center">
-  <img src="assets/method_overview.jpg" alt="AvatarPointillist method overview" width="92%">
-</p>
-
-AvatarPointillist contains two tightly coupled stages:
-
-1. An autoregressive generator predicts Gaussian geometry tokens together with binding information.
-2. A Gaussian decoder converts the generated representation into complete renderable Gaussian attributes for animation and rendering.
-
-Conditioning the decoder on latent features from the autoregressive generator substantially improves the final avatar fidelity.
-
-## Authors
-
-[Hongyu Liu](https://kumapowerliu.github.io/)<sup>1,2</sup>, [Xuan Wang](https://xuanwangvc.github.io/)<sup>2</sup>, [Zijian Wu](https://zijian-wu.github.io/)<sup>2</sup>, [Yating Wang](https://scholar.google.com/citations?user=w1tn5rUAAAAJ&hl=zh-CN)<sup>2</sup>,  [Ziyu Wan](http://raywzy.com/)<sup>3</sup>, [Yue Ma](https://mayuelala.github.io/)<sup>1</sup>, [Runtao Liu](https://liuruntao.github.io/)<sup>1</sup>, [Boyao Zhou](https://yaourtb.github.io/)<sup>2</sup>, [Yujun Shen](https://shenyujun.github.io/)<sup>2</sup>, [Qifeng Chen](https://cqf.io/)<sup>1</sup>
-
-<sup>1</sup> HKUST, <sup>2</sup> Ant Group, <sup>3</sup> City University of Hong Kong
-
-## Planned Release
-
-The public release is planned to include the following components:
-
-- environment setup
-- checkpoints and pretrained models
-- demo and inference scripts
-- training pipeline
-- data preparation instructions
-
-## Citation
-
-If you find this project useful, please cite:
-
-```bibtex
-@inproceedings{liu2026avatarpointillist,
-  title     = {AvatarPointillist: AutoRegressive 4D Gaussian Avatarization},
-  author    = {Hongyu Liu and Xuan Wang and Zijian Wu and Yating Wang and Ziyu Wan and Yue Ma and Runtao Liu and Boyao Zhou and Yujun Shen and Qifeng Chen},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year      = {2026}
-}
-```
-
-## Contact
-
-For project-related questions, please use the author homepages above or refer to the project page:
-
-[https://kumapowerliu.github.io/AvatarPointillist/](https://kumapowerliu.github.io/AvatarPointillist/)
+- 项目特性：说明本项目相较于其他同类项目所具有的特性
+- 兼容环境：说明本项目能够在什么平台上运行
+- 使用示例：展示一些使用本项目的小demo
+- 主要项目负责人：使用“@”标注出本项目的主要负责人，方便项目的用户沟通
+- 参与贡献的方式：规定好其他用户参与本项目并贡献代码的方式
+- 项目的参与者：列出项目主要的参与人
+- 已知用户：列出已经在生产环境中使用了本项目的全部或部分组件的公司或组织
+- 赞助者：列出为本项目提供赞助的用户

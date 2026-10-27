@@ -1,0 +1,11 @@
+{
+
+    "sample_id_1": {
+        "img_path": "/nas5/liuhongyu/vfhq_test/0001/images/00020_00.png",
+        "flame_path": "/nas5/liuhongyu/vfhq_test/0001/canonical_flame_param.npz",
+        "ply_path": "/nas5/liuhongyu/AR_Results/baseline/ours/vfhq/0001-1/point_cloud/iteration_180000/point_cloud.ply"
+    }
+
+    
+}
+

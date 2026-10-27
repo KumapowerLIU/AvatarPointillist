@@ -1,0 +1,84 @@
+*~
+*.swp
+*.png
+*.pyc
+*.pyo
+*.so
+
+.mypy_cache/
+*.egg-info/
+
+build/
+dist/
+
+# for autocomplete
+compile_commands.json
+
+# Pytest verbose output
+test-results/
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.vscode/*
+xformers/benchmarks/LRA/datasets
+xformers/benchmarks/LRA/logs
+
+my_runs.md
+
+# Triton cache
+.cache
+
+# JetBrains PyCharm IDE
+.idea/
+
+# Pyre cache
+.pyre/
+
+# Watchman config files
+.watchmanconfig
+
+# examples demo files
+examples/input.txt
+examples/lightning_logs
+examples/data
+
+# Hydra default output dir
+multirun
+outputs
+checkpoint
+checkpoint/*
+**/test_outputs_ar*/
+**/*.ply
+checkpoint_random/*
+**/test_ply/
+**/test_ply
+checkpoint_20000size
+checkpoint_40000size
+checkpoint_80000size
+checkpoint_20000size/*
+checkpoint_40000size/*
+checkpoint_80000size/*
+/robby/share/Avatar/hongyul/code/avatarpointillist/avatarpointillist/exps
+/robby/share/Avatar/hongyul/code/avatarpointillist/avatarpointillist/exps/*
+./avatarpointillist/exps
+./avatarpointillist/exps/*
+avatarpointillist/exps
+avatarpointillist/exps/*
+checkpoint_gpt/*
+checkpoint_gpt_msak_norm/*
+checkpoint_gpt
+checkpoint_gpt_msak_norm
+avatarpointillist/dumps/
+avatarpointillist/dumps/*
+test_ply2/
+test_ply2/*

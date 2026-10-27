@@ -1,0 +1,17 @@
+base_config: ./configs/base_config.yaml
+
+dim: 384
+heads: 6
+depth: 6
+max_img_per_gpu: 6
+image_num: [1, 6]
+other_views: 4
+
+experiment:
+    child: mv-lam_20k_2_id
+
+model:
+    flame_subdivide_num: 1
+
+train:
+    epochs: 10000

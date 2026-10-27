@@ -1,0 +1,41 @@
+rope_theta: 1000000
+n_sample_points: 8192
+no_load_optimizer: false
+index: false
+sample: false
+warm_lr_epochs: 1
+test_face_cond_ratio: 1.0
+eval_every_iteration: 2000
+save_every: 250
+generate_every_data: 1
+clip_gradient: 1.0
+max_seq_len: 80000
+window_size: 80000
+n_discrete_size: 1024
+gradient_accumulation_steps: 1
+data_dir: data/
+seed: 0
+num_faces: 10144
+base_lr: 0.0001
+final_lr: 1.0e-05
+lr_scheduler: cosine
+weight_decay: 0.01
+optimizer: AdamW
+warm_lr: 0.0001
+use_flame_cano_bound: true
+no_aug: True
+checkpoint_dir: /nas5/liuhongyu/AR_Results/humanar_overfit_triplane
+log_every: 10
+start_epoch: -1
+max_epoch: 1000
+start_eval_after: -1
+precision: fp16
+batchsize_per_gpu: 1
+training_mask_ratio: 0.
+flame_base_path: /home/liuhongyu/code/AR/GSA/flame_model/assets/flame
+dino_path: /robby/share/Avatar/hongyul/code/pretrained_model/dinov2/dino2
+file_path_train: /home/liuhongyu/code/AR/avatarpointillist2/configs/data_triplane_overfitting.json
+point_encoder_ckpt_path: /robby/share/Avatar/hongyul/code/pretrained_model/shapevae-256.ckpt
+Global min: [-0.37134886 -0.26413554 -0.3435335 ]
+Global max: [0.30597788 0.21042103 0.12734485]
+

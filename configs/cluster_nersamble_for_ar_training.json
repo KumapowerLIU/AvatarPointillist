@@ -1,0 +1,1360 @@
+{
+    "sample_057": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/057/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/057/UNION10_057_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_058": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/058/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/058/UNION3_058_EMO1EXP2FREE"
+    },
+    "sample_059": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/059/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/059/UNION11_059_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_060": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/060/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/060/UNION3_060_EMO1EXP2FREE"
+    },
+    "sample_061": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/061/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/061/UNION11_061_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_063": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/063/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/063/UNION11_063_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_064": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/064/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/064/UNION11_064_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_065": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/065/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/065/UNION3_065_EMO1EXP2FREE"
+    },
+    "sample_067": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/067/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/067/UNION11_067_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_068": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/068/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/068/UNION3_068_EMO1EXP2FREE"
+    },
+    "sample_069": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/069/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/069/UNION11_069_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_070": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/070/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/070/UNION10_070_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_071": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/071/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/071/UNION3_071_EMO1EXP2FREE"
+    },
+    "sample_072": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/072/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/072/UNION11_072_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_073": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/073/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/073/UNION11_073_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_074": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/074/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/074/UNION11_074_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_075": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/075/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/075/UNION11_075_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_076": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/076/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/076/UNION3_076_EMO1EXP2FREE"
+    },
+    "sample_077": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/077/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/077/UNION3_077_EMO1EXP2FREE"
+    },
+    "sample_078": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/078/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/078/UNION3_078_EMO1EXP2FREE"
+    },
+    "sample_079": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/079/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/079/UNION3_079_EMO1EXP2FREE"
+    },
+    "sample_080": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/080/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/080/UNION3_080_EMO1EXP2FREE"
+    },
+    "sample_081": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/081/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/081/UNION11_081_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_082": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/082/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/082/UNION11_082_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_083": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/083/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/083/UNION11_083_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_085": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/085/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/085/UNION11_085_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_088": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/088/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/088/UNION11_088_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_089": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/089/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/089/UNION11_089_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_090": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/090/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/090/UNION11_090_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_091": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/091/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/091/UNION3_091_EMO1EXP2FREE"
+    },
+    "sample_092": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/092/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/092/UNION11_092_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_093": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/093/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/093/UNION11_093_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_094": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/094/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/094/UNION2_094_EMO1EXP2"
+    },
+    "sample_095": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/095/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/095/UNION7_095_EMO1EMO2EMO3EMO4EXP2EXP3EXP4"
+    },
+    "sample_096": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/096/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/096/UNION11_096_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_097": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/097/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/097/UNION10_097_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_098": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/098/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/098/UNION3_098_EMO1EXP2FREE"
+    },
+    "sample_099": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/099/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/099/UNION11_099_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_100": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/100/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/100/UNION10_100_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_102": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/102/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/102/UNION3_102_EMO1EXP2FREE"
+    },
+    "sample_104": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/104/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/104/UNION11_104_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_105": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/105/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/105/UNION10_105_EMO1EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_106": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/106/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/106/UNION11_106_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_107": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/107/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/107/UNION11_107_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_108": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/108/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/108/UNION11_108_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_109": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/109/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/109/UNION11_109_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_110": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/110/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/110/UNION3_110_EMO1EXP2FREE"
+    },
+    "sample_111": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/111/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/111/UNION11_111_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_112": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/112/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/112/UNION11_112_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_113": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/113/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/113/UNION3_113_EMO1EXP2FREE"
+    },
+    "sample_114": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/114/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/114/UNION3_114_EMO1EXP2FREE"
+    },
+    "sample_115": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/115/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/115/UNION11_115_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_116": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/116/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/116/UNION11_116_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_117": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/117/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/117/UNION11_117_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_120": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/120/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/120/UNION11_120_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_121": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/121/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/121/UNION3_121_EMO1EXP2FREE"
+    },
+    "sample_122": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/122/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/122/UNION11_122_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_123": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/123/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/123/UNION11_123_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_124": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/124/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/124/UNION10_124_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_126": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/126/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/126/UNION11_126_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_127": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/127/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/127/UNION11_127_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_128": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/128/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/128/UNION11_128_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_129": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/129/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/129/UNION11_129_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_130": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/130/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/130/UNION6_130_EMO1EMO2EMO3EMO4EXP2EXP3"
+    },
+    "sample_132": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/132/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/132/UNION11_132_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_133": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/133/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/133/UNION11_133_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_134": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/134/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/134/UNION11_134_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_135": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/135/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/135/UNION11_135_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_136": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/136/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/136/UNION3_136_EMO1EMO2EMO3"
+    },
+    "sample_138": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/138/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/138/UNION11_138_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_139": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/139/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/139/UNION11_139_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_140": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/140/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/140/UNION11_140_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_141": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/141/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/141/UNION11_141_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_142": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/142/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/142/UNION11_142_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_144": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/144/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/144/UNION11_144_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_145": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/145/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/145/UNION11_145_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_146": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/146/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/146/UNION11_146_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_147": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/147/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/147/UNION11_147_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_148": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/148/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/148/UNION4_148_EMO1EMO2EMO3EMO4"
+    },
+    "sample_150": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/150/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/150/UNION3_150_EMO1EXP2FREE"
+    },
+    "sample_151": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/151/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/151/UNION11_151_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_162": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/162/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/162/UNION11_162_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_163": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/163/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/163/UNION3_163_EMO1EXP2FREE"
+    },
+    "sample_164": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/164/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/164/UNION11_164_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_165": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/165/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/165/UNION11_165_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_166": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/166/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/166/UNION10_166_EMO1EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_167": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/167/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/167/UNION11_167_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_168": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/168/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/168/UNION3_168_EMO1EXP2FREE"
+    },
+    "sample_170": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/170/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/170/UNION11_170_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_171": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/171/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/171/UNION9_171_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8"
+    },
+    "sample_173": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/173/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/173/UNION11_173_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_174": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/174/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/174/UNION11_174_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_175": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/175/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/175/UNION11_175_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_176": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/176/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/176/UNION11_176_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_177": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/177/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/177/UNION11_177_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_178": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/178/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/178/UNION11_178_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_179": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/179/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/179/UNION5_179_EXP2EXP3EXP4EXP5EXP8"
+    },
+    "sample_180": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/180/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/180/UNION3_180_EMO1EXP2FREE"
+    },
+    "sample_181": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/181/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/181/UNION3_181_EMO1EXP2FREE"
+    },
+    "sample_182": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/182/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/182/UNION11_182_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_183": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/183/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/183/UNION11_183_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_184": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/184/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/184/UNION11_184_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_185": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/185/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/185/UNION10_185_EMO1EMO2EMO3EMO4EXP2EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_186": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/186/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/186/UNION11_186_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_187": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/187/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/187/UNION11_187_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_188": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/188/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/188/UNION3_188_EMO1EXP2FREE"
+    },
+    "sample_189": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/189/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/189/UNION11_189_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_190": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/190/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/190/UNION10_190_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_191": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/191/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/191/UNION11_191_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_192": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/192/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/192/UNION11_192_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_193": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/193/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/193/UNION11_193_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_194": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/194/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/194/UNION11_194_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_195": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/195/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/195/UNION3_195_EMO1EXP2FREE"
+    },
+    "sample_196": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/196/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/196/UNION11_196_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_197": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/197/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/197/UNION11_197_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_198": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/198/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/198/UNION10_198_EMO1EMO2EMO3EMO4EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_199": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/199/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/199/UNION11_199_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_200": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/200/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/200/UNION11_200_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_201": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/201/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/201/UNION11_201_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_202": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/202/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/202/UNION11_202_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_204": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/204/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/204/UNION3_204_EMO1EXP2FREE"
+    },
+    "sample_206": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/206/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/206/UNION3_206_EMO1EXP2FREE"
+    },
+    "sample_207": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/207/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/207/UNION3_207_EMO1EXP2FREE"
+    },
+    "sample_209": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/209/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/209/UNION10_209_EMO1EMO2EMO3EMO4EXP2EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_210": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/210/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/210/UNION11_210_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_211": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/211/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/211/UNION11_211_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_212": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/212/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/212/UNION11_212_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_214": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/214/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/214/UNION11_214_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_215": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/215/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/215/UNION11_215_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_216": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/216/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/216/UNION11_216_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_217": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/217/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/217/UNION11_217_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_218": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/218/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/218/UNION11_218_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_220": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/220/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/220/UNION11_220_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_221": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/221/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/221/UNION3_221_EXP2EXP3EXP5"
+    },
+    "sample_222": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/222/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/222/UNION11_222_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_223": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/223/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/223/UNION11_223_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_224": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/224/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/224/UNION11_224_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_225": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/225/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/225/UNION8_225_EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_229": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/229/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/229/UNION10_229_EMO1EMO2EMO3EMO4EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_230": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/230/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/230/UNION11_230_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_231": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/231/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/231/UNION11_231_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_232": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/232/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/232/UNION3_232_EMO1EXP2FREE"
+    },
+    "sample_233": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/233/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/233/UNION3_233_EMO1EXP2FREE"
+    },
+    "sample_234": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/234/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/234/UNION3_234_EMO1EXP2FREE"
+    },
+    "sample_235": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/235/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/235/UNION3_235_EMO1EXP2FREE"
+    },
+    "sample_236": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/236/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/236/UNION11_236_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_237": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/237/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/237/UNION11_237_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_238": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/238/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/238/UNION11_238_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_239": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/239/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/239/UNION11_239_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_240": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/240/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/240/UNION11_240_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_241": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/241/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/241/UNION11_241_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_242": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/242/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/242/UNION3_242_EMO1EXP2FREE"
+    },
+    "sample_243": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/243/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/243/UNION3_243_EMO1EXP2FREE"
+    },
+    "sample_244": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/244/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/244/UNION11_244_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_245": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/245/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/245/UNION11_245_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_246": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/246/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/246/UNION11_246_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_247": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/247/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/247/UNION11_247_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_248": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/248/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/248/UNION11_248_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_249": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/249/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/249/UNION10_249_EMO1EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_250": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/250/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/250/UNION11_250_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_251": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/251/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/251/UNION11_251_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_252": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/252/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/252/UNION11_252_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_253": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/253/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/253/UNION11_253_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_254": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/254/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/254/UNION11_254_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_256": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/256/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/256/UNION10_256_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_257": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/257/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/257/UNION11_257_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_258": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/258/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/258/UNION11_258_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_259": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/259/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/259/UNION11_259_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_260": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/260/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/260/UNION11_260_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_261": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/261/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/261/UNION11_261_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_262": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/262/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/262/UNION11_262_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_263": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/263/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/263/UNION11_263_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_264": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/264/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/264/UNION11_264_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_266": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/266/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/266/UNION3_266_EMO1EXP2FREE"
+    },
+    "sample_267": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/267/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/267/UNION10_267_EMO1EMO2EMO3EMO4EXP2EXP3EXP5EXP8EXP9FREE"
+    },
+    "sample_269": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/269/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/269/UNION11_269_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_270": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/270/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/270/UNION11_270_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_271": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/271/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/271/UNION11_271_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_272": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/272/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/272/UNION11_272_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_274": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/274/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/274/UNION3_274_EMO1EXP2FREE"
+    },
+    "sample_275": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/275/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/275/UNION3_275_EMO1EXP2FREE"
+    },
+    "sample_276": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/276/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/276/UNION11_276_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_277": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/277/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/277/UNION11_277_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_278": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/278/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/278/UNION11_278_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_279": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/279/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/279/UNION11_279_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_280": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/280/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/280/UNION11_280_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_281": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/281/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/281/UNION11_281_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_282": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/282/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/282/UNION11_282_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_283": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/283/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/283/UNION9_283_EMO1EMO2EMO3EMO4EXP2EXP5EXP8EXP9FREE"
+    },
+    "sample_284": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/284/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/284/UNION11_284_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_285": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/285/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/285/UNION11_285_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_286": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/286/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/286/UNION10_286_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_287": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/287/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/287/UNION8_287_EMO1EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_288": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/288/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/288/UNION11_288_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_289": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/289/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/289/UNION10_289_EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_290": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/290/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/290/UNION11_290_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_293": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/293/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/293/UNION11_293_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_294": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/294/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/294/UNION11_294_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_295": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/295/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/295/UNION3_295_EMO1EXP2FREE"
+    },
+    "sample_297": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/297/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/297/UNION3_297_EMO1EXP2FREE"
+    },
+    "sample_298": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/298/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/298/UNION8_298_EMO1EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_299": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/299/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/299/UNION11_299_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_301": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/301/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/301/UNION11_301_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_302": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/302/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/302/UNION11_302_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_303": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/303/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/303/UNION3_303_EMO1EXP2FREE"
+    },
+    "sample_304": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/304/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/304/UNION11_304_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_305": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/305/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/305/UNION11_305_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_306": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/306/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/306/UNION11_306_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_307": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/307/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/307/UNION11_307_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_308": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/308/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/308/UNION11_308_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_309": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/309/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/309/UNION11_309_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_310": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/310/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/310/UNION10_310_EMO1EMO2EMO3EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_311": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/311/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/311/UNION11_311_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_312": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/312/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/312/UNION11_312_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_313": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/313/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/313/UNION3_313_EMO1EXP2FREE"
+    },
+    "sample_314": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/314/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/314/UNION11_314_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_315": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/315/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/315/UNION11_315_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_316": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/316/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/316/UNION11_316_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_317": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/317/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/317/UNION11_317_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_318": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/318/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/318/UNION11_318_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_319": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/319/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/319/UNION11_319_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_320": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/320/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/320/UNION11_320_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_321": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/321/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/321/UNION11_321_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_322": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/322/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/322/UNION10_322_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP8EXP9FREE"
+    },
+    "sample_323": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/323/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/323/UNION11_323_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_324": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/324/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/324/UNION11_324_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_325": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/325/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/325/UNION9_325_EMO1EMO2EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_326": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/326/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/326/UNION11_326_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_327": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/327/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/327/UNION11_327_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_328": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/328/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/328/UNION11_328_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_330": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/330/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/330/UNION11_330_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_331": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/331/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/331/UNION11_331_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_332": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/332/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/332/UNION11_332_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_333": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/333/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/333/UNION11_333_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_350": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/350/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/350/UNION11_350_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_368": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/368/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/368/UNION8_368_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5"
+    },
+    "sample_370": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/370/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/370/UNION11_370_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_371": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/371/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/371/UNION11_371_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_372": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/372/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/372/UNION11_372_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_373": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/373/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/373/UNION11_373_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_374": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/374/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/374/UNION7_374_EMO1EMO2EMO3EMO4EXP2EXP3EXP4"
+    },
+    "sample_376": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/376/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/376/UNION11_376_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_377": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/377/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/377/UNION11_377_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_378": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/378/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/378/UNION11_378_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_379": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/379/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/379/UNION11_379_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_380": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/380/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/380/UNION10_380_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9"
+    },
+    "sample_382": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/382/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/382/UNION11_382_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_383": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/383/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/383/UNION11_383_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_384": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/384/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/384/UNION11_384_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_385": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/385/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/385/UNION11_385_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_386": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/386/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/386/UNION11_386_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_388": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/388/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/388/UNION3_388_EMO1EXP2FREE"
+    },
+    "sample_403": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/403/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/403/UNION11_403_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_405": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/405/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/405/UNION11_405_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_406": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/406/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/406/UNION11_406_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_407": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/407/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/407/UNION11_407_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_409": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/409/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/409/UNION11_409_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_410": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/410/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/410/UNION11_410_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_411": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/411/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/411/UNION11_411_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_412": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/412/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/412/UNION11_412_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_413": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/413/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/413/UNION8_413_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5"
+    },
+    "sample_415": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/415/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/415/UNION11_415_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_416": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/416/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/416/UNION11_416_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_417": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/417/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/417/UNION11_417_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_418": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/418/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/418/UNION11_418_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_419": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/419/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/419/UNION6_419_EMO1EMO2EMO3EMO4EXP2EXP3"
+    },
+    "sample_421": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/421/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/421/UNION11_421_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_422": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/422/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/422/UNION10_422_EMO1EMO2EMO3EMO4EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_424": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/424/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/424/UNION3_424_EMO1EXP2FREE"
+    },
+    "sample_425": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/425/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/425/UNION11_425_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_426": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/426/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/426/UNION11_426_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_427": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/427/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/427/UNION11_427_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_428": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/428/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/428/UNION11_428_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_429": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/429/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/429/UNION11_429_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_430": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/430/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/430/UNION11_430_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_431": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/431/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/431/UNION11_431_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_432": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/432/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/432/UNION11_432_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_433": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/433/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/433/UNION11_433_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_434": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/434/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/434/UNION11_434_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_435": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/435/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/435/UNION11_435_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_436": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/436/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/436/UNION11_436_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_437": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/437/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/437/UNION11_437_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_438": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/438/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/438/UNION11_438_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_439": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/439/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/439/UNION11_439_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_440": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/440/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/440/UNION11_440_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_441": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/441/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/441/UNION11_441_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_442": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/442/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/442/UNION9_442_EMO1EMO2EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_447": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/447/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/447/UNION11_447_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_448": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/448/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/448/UNION11_448_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_449": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/449/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/449/UNION11_449_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_450": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/450/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/450/UNION11_450_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_451": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/451/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/451/UNION7_451_EMO1EMO2EMO3EMO4EXP2EXP3EXP4"
+    },
+    "sample_453": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/453/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/453/UNION11_453_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_455": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/455/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/455/UNION11_455_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_456": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/456/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/456/UNION11_456_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_457": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/457/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/457/UNION9_457_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8"
+    },
+    "sample_460": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/460/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/460/UNION11_460_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_462": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/462/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/462/UNION11_462_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_463": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/463/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/463/UNION11_463_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_464": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/464/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/464/UNION3_464_EMO1EXP2FREE"
+    },
+    "sample_465": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/465/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/465/UNION3_465_EMO1EXP2FREE"
+    },
+    "sample_466": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/466/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/466/UNION3_466_EMO1EXP2FREE"
+    },
+    "sample_467": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/467/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/467/UNION11_467_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_468": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/468/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/468/UNION11_468_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_469": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/469/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/469/UNION11_469_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_470": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/470/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/470/UNION3_470_EMO1EXP2FREE"
+    },
+    "sample_471": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/471/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/471/UNION11_471_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_472": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/472/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/472/UNION3_472_EMO1EXP2FREE"
+    },
+    "sample_473": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/473/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/473/UNION3_473_EMO1EXP2FREE"
+    },
+    "sample_474": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/474/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/474/UNION11_474_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_475": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/475/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/475/UNION11_475_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_476": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/476/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/476/UNION11_476_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_478": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/478/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/478/UNION11_478_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_479": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/479/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/479/UNION11_479_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_480": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/480/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/480/UNION11_480_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_481": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/481/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/481/UNION11_481_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_483": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/483/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/483/UNION11_483_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_484": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/484/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/484/UNION11_484_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_485": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/485/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/485/UNION11_485_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_487": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/487/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/487/UNION3_487_EMO1EXP2FREE"
+    },
+    "sample_488": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/488/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/488/UNION3_488_EMO1EXP2FREE"
+    },
+    "sample_489": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/489/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/489/UNION9_489_EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_490": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/490/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/490/UNION11_490_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_491": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/491/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/491/UNION11_491_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_492": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/492/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/492/UNION11_492_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_494": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/494/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/494/UNION11_494_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_495": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/495/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/495/UNION11_495_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_496": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/496/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/496/UNION11_496_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_497": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/497/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/497/UNION11_497_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_498": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/498/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/498/UNION11_498_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_499": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/499/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/499/UNION11_499_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_500": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/500/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/500/UNION11_500_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    "sample_505": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/505/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/505/UNION9_505_EMO1EMO3EMO4EXP2EXP3EXP4EXP5EXP9FREE"
+    },
+    "sample_509": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/509/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/509/UNION8_509_EMO2EMO3EMO4EXP2EXP3EXP4EXP8FREE"
+    },
+    "sample_510": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/510/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/510/UNION11_510_EMO1EMO2EMO3EMO4EXP2EXP3EXP4EXP5EXP8EXP9FREE"
+    },
+    
+    "sample_515": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/515/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/515/UNION10_515_EMO1EMO2EMO3EMO4EXP2EXP4EXP5EXP8EXP9FREE"
+    },
+    
+    "sample_516": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/516/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/516/UNION4_516_EMO1EMO2EMO3EMO4"
+    },
+    "sample_522": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/522/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/522/UNION5_522_EMO1EMO2EMO3EXP2EXP9"
+    },
+    "sample_525": {
+        "base_path": "/robby/share/Avatar/hongyul/GSAFitting/525/point_cloud/iteration_600000",
+        "img_path": "/mnt/robby-c1/common/datasets/Avatar/datasets/vhap_nersemble_v2_results/export/525/UNION7_525_EMO1EMO2EMO4EXP2EXP3EXP4FREE"
+    }
+}
